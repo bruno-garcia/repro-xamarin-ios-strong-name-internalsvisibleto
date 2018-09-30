@@ -1,6 +1,4 @@
 <Project>
   <PropertyGroup>
-    <AssemblyOriginatorKeyFile>../sign.snk</AssemblyOriginatorKeyFile>
-    <SignAssembly>true</SignAssembly>
   </PropertyGroup>
 </Project>
