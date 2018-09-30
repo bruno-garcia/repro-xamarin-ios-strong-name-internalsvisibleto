@@ -49,3 +49,7 @@ used by your application.
 
 Application 'Test.InternalsVisibleStrongNamed' terminated.
 ```
+
+If there's no strong naming, the app works as expected.
+
+See branch: [removed-strong-naming](https://github.com/bruno-garcia/repro-xamarin-ios-strong-name-internalsvisibleto/tree/work/removed-strong-naming)
